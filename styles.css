@@ -87,7 +87,7 @@ main {
 
 }
 
-.date-range {
+.dateRange {
     display: flex;
     align-items: center;
     gap: 5px;
